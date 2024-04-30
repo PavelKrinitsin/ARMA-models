@@ -1,7 +1,7 @@
 # *ARIMA-models*
 **Building a forecast trend for 12 months using ARIMA**
 <p align="center">
-    <img src="https://github.com/PavelKrinitsin/ARMA-models/blob/main/Arima.png" width="300">
+    <img src="https://github.com/PavelKrinitsin/ARMA-models/blob/main/Arima.png" width="600">
 </p>
 
 ## Description
